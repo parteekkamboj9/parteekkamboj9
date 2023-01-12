@@ -1,15 +1,18 @@
 ## Hi there 👋  I'm Parteek Singh
 ##### I'm a Python developer. I have a great knowledge of python as well as django. I've done lot of practice in both. In summers, I learn about Web Scraping and Adobe Photoshop. So i have good knowledge in programming and logically clear mind
-##### You can see in my Repositries. I have few copmplete websites build using Django & Python in my private repos.(Contect below to check/see)
-There are few project/repos of webscrapping in my public repos.
+##### You can see in my Repositries. I have few copmplete websites build using Django & Python in my private repos.(Contect below to check/see) There are few project/repos of webscrapping in my public repos.
 
 
 ## Contact
 
-<!--[![Instagram](https://img.shields.io/badge/Instagram-.-informational?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/__parteek__kamboj__/)-->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-.-informational?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parteek-singh-892726248/)
-[![HackerRank](https://img.shields.io/badge/HackerRank-.-informational?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/parteekkamboj9/)
-[![Gmail](https://img.shields.io/badge/Gmail-.-informational?style=flat-square&logo=gmail&logoColor=white)](https://www.hackerrank.com/parteekkamboj9/)
+[![Skype](https://img.shields.io/badge/Skype--informational?style=flat-square&logo=skype&logoColor=white)](https://join.skype.com/invite/vGFcTrbDzhWE)
+[![Twitter](https://img.shields.io/badge/Twitter--informational?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/ParteekKamboj0?t=RGD47gi16TbKjqZztlaGww&s=09)
+[![Instagram](https://img.shields.io/badge/Instagram--informational?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/__parteek__kamboj__/)
+
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn--informational?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parteek-singh-892726248/)
+[![Gmail](https://img.shields.io/badge/Gmail--informational?style=flat-square&logo=gmail&logoColor=white)](https://www.hackerrank.com/parteekkamboj9/)
+[![HackerRank](https://img.shields.io/badge/HackerRank--informational?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/parteekkamboj9/)
 
 
 ## My skills
