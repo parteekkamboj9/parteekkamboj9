@@ -1,5 +1,5 @@
 ## Hi there 👋  I'm Parteek Singh
-##### I'm a Python developer. I have a great knowledge of python as well as django. I've done lot of practice in both. In summers, i learn about Web Scraping and Adobe Photoshop. So i have good knowledge in programming and logically clear mind
+##### I'm a Python developer. I have a great knowledge of python as well as django. I've done lot of practice in both. In summers, I learn about Web Scraping and Adobe Photoshop. So i have good knowledge in programming and logically clear mind
 ##### You can see in my Repositries. I have few copmplete websites build using Django & Python in my private repos.(Contect below to check/see)
 There are few project/repos of webscrapping in my public repos.
 
