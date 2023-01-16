@@ -10,7 +10,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram--informational?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/__parteek__kamboj__/)
 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn--informational?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parteek-singh-892726248/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn--informational?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parteekkamboj9/)
 [![Gmail](https://img.shields.io/badge/Gmail--informational?style=flat-square&logo=gmail&logoColor=white)](https://www.hackerrank.com/parteekkamboj9/)
 [![HackerRank](https://img.shields.io/badge/HackerRank--informational?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/parteekkamboj9/)
 
