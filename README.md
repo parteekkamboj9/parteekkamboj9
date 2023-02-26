@@ -18,7 +18,7 @@
 ## My Skills
 
 
-![WebDesigning](https://img.shields.io/badge/-WebDesigning-black?style=flat-square&logo=WebDesigning&logoColor=white)
+![WebDesigning](https://img.shields.io/badge/-WebDesigning-black?style=flat-square&logo=css&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-black?style=flat-square&logo=django&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/-PhotoShop-black?style=flat-square&logo=adobephotoshop&logoColor=white)
