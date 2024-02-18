@@ -1,5 +1,5 @@
 ## Hi there 👋  I'm Parteek Singh
-##### I'm A Python Developer. I Have A Great Knowledge Of Python As Well As Django. I've Done Lot Of Practice In Both. In Summers, I Learn About Web Scraping And Adobe Photoshop. So I Have Good Knowledge In Programming And Logically Clear Mind.
+##### I'm A Python Developer. I Have A Great Knowledge Of Python As Well As LLM's. I've Done Lot Of Practice In Both. In Previous years, I Learn About Web Scraping And Web Development. So I Have Good Knowledge In Programming And Logically Clear Mind.
 ##### You Can See In My Repositories. I Have Few Complete Websites Build Using Django & Python In My Private Repos.(Contact Below To Check/see) There Are Few Project/repos Of Webscrapping In My Public Repos.
 
 
@@ -18,17 +18,45 @@
 ## My Skills
 
 
-![WebDesigning](https://img.shields.io/badge/-WebDesigning-black?style=flat-square&logo=css3&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python&logoColor=white)
+![Data Structure](https://img.shields.io/badge/-Data%20Structure-black?style=flat-square)
+![Python OOPs](https://img.shields.io/badge/-Python%20OOPs-black?style=flat-square)
+
 ![Django](https://img.shields.io/badge/-Django-black?style=flat-square&logo=django&logoColor=white)
-![Photoshop](https://img.shields.io/badge/-PhotoShop-black?style=flat-square&logo=adobephotoshop&logoColor=white)
-![WebScrapping](https://img.shields.io/badge/-WebScrapping-black?style=flat-square&logo=html5&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-black?style=flat-square&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-black?style=flat-square)
+![Rest API](https://img.shields.io/badge/-Rest%20API-black?style=flat-square)
 
+![Selenium](https://img.shields.io/badge/-Selenium-black?style=flat-square&logo=selenium&logoColor=white)
+![BeautifulSoup](https://img.shields.io/badge/-BeautifulSoup-black?style=flat-square&logo=html5&logoColor=white)
 
-![Web Hosting](https://img.shields.io/badge/Web%20Hosting-black?style=flat-square&logo=amazon-aws)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&logoColor=white)
+![jQuery](https://img.shields.io/badge/-jQuery-black?style=flat-square&logo=jquery&logoColor=white)
 
+![Pandas](https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-black?style=flat-square&logo=numpy&logoColor=white)
 
+![LLM](https://img.shields.io/badge/-LLM-black?style=flat-square)
+![GPT](https://img.shields.io/badge/-GPT-black?style=flat-square)
+![OpenAI](https://img.shields.io/badge/-OpenAI-black?style=flat-square)
+![Langchain](https://img.shields.io/badge/-Langchain-black?style=flat-square)
+![LLAMA](https://img.shields.io/badge/-LLAMA-black?style=flat-square)
 
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/-Bitbucket-black?style=flat-square&logo=bitbucket&logoColor=white)
+![Jira](https://img.shields.io/badge/-Jira-black?style=flat-square&logo=jira&logoColor=white)
+
+![Stripe](https://img.shields.io/badge/-Stripe-black?style=flat-square&logo=stripe&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql&logoColor=white)
+![SQL Alchemy](https://img.shields.io/badge/-SQL%20Alchemy-black?style=flat-square)
+![JDBC](https://img.shields.io/badge/-JDBC-black?style=flat-square)
+
+![Google OAuth2](https://img.shields.io/badge/-Google%20OAuth2-black?style=flat-square&logo=google&logoColor=white)
+![AppScript](https://img.shields.io/badge/-AppScript-black?style=flat-square&logo=google&logoColor=white)
+
+![Full Stack Developer](https://img.shields.io/badge/-Full%20Stack%20Developer-black?style=flat-square&logo=Circle&logoColor=white)
+![Web Designing](https://img.shields.io/badge/-Web%20Designing-black?style=flat-square&logo=css3&logoColor=white)
+![Photoshop](https://img.shields.io/badge/-Photoshop-black?style=flat-square&logo=adobephotoshop&logoColor=white)
 
 
 <!--
